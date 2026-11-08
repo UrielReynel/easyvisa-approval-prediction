@@ -1,0 +1,6 @@
+# Dataset (provided by the program, not redistributed)
+data/*.csv
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
